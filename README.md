@@ -8,4 +8,4 @@ Considerations
 
 if you use this package using unity versions with Visual Scripting installed it is necessary to remove or remove Ionic.Zlib from the project plugins folder
 
-this package provides example of a simple prefab instantiation on the network and the voice chat for each entity instantiated
+this package provides example of a simple prefab instantiation and network sytem to use the voice chat for each entity instantiated
