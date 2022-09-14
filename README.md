@@ -7,3 +7,5 @@ A implementation of Voice Chat for the Unity, using the LiteNetLib to send data 
 Considerations
 
 if you use this package using unity versions with Visual Scripting installed it is necessary to remove or remove Ionic.Zlib from the project plugins folder
+
+this package provides example of a simple pre-made instantiation on the network and the voice chat for each entity instantiated
